@@ -1,0 +1,10 @@
+# Rime schema
+# encoding: utf-8
+# author: hktkzyx<hktkzyx@qq.com>
+
+patch:
+  __include: emoji_suggestion:/patch
+  switches/@2/reset: 1
+  punctuator/import_preset: symbols.custom
+  recognizer/patterns/punct: "^/([0-9]0?|[A-Za-z]+)$"
+  translator/dictionary: my_pinyin

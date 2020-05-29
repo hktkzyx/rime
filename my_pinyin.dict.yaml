@@ -1,0 +1,15 @@
+# Rime dict
+# encoding: utf-8
+# author: hktkzyx<hktkzyx@qq.com>
+
+---
+name: my_pinyin
+version: "1"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+...
+
+小鹤双拼	xiao he shuang pin
+百乐钢笔	bai le gang bi
