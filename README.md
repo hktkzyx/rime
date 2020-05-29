@@ -1,0 +1,2 @@
+# rime
+My rime configuration
